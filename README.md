@@ -2,7 +2,7 @@
 crypto note
 
 ### todO:
-blowfish
+blowfish  a little know
 
 twofish
 
